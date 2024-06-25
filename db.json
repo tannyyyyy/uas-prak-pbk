@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {
+      "title": "Tanny",
+      "content": "Bunga",
+      "id": "01"
+    },
+    {
+      "id": "02",
+      "title": "Yolanda",
+      "content": "Matahari"
+    },
+    {
+      "id": "03",
+      "title": "Apriliani",
+      "content": "Tulip"
+    }
+  ]
+}
